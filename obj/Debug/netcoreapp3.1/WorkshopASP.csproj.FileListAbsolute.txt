@@ -44,3 +44,4 @@ D:\DegunaHpLaptop\Education\Training\ACCI Cloud Computing\Tugas\WorkshopACCI\Wor
 D:\DegunaHpLaptop\Education\Training\ACCI Cloud Computing\Tugas\WorkshopACCI\WorkshopASP\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 D:\DegunaHpLaptop\Education\Training\ACCI Cloud Computing\Tugas\WorkshopACCI\WorkshopASP\obj\Debug\netcoreapp3.1\Razor\Views\Mahasiswa\Details.cshtml.g.cs
 D:\DegunaHpLaptop\Education\Training\ACCI Cloud Computing\Tugas\WorkshopACCI\WorkshopASP\obj\Debug\netcoreapp3.1\Razor\Views\Mahasiswa\Create.cshtml.g.cs
+D:\DegunaHpLaptop\Education\Training\ACCI Cloud Computing\Tugas\WorkshopACCI\WorkshopASP\bin\Debug\netcoreapp3.1\appsettings.clo.json

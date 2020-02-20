@@ -20501,6 +20501,11 @@
   "RootNamespace": "WorkshopASP",
   "Documents": [
     {
+      "FilePath": "d:\\DegunaHpLaptop\\Education\\Training\\ACCI Cloud Computing\\Tugas\\WorkshopACCI\\WorkshopASP\\Views\\Mahasiswa\\Delete.cshtml",
+      "TargetPath": "Views\\Mahasiswa\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\DegunaHpLaptop\\Education\\Training\\ACCI Cloud Computing\\Tugas\\WorkshopACCI\\WorkshopASP\\Views\\Mahasiswa\\Create.cshtml",
       "TargetPath": "Views\\Mahasiswa\\Create.cshtml",
       "FileKind": "mvc"
